@@ -1,2 +1,2 @@
 # CoxCS3353-Midterm
-Repo for midterm code of Rabin-Karp string-search algorithm
+Repository for Rabin-Karp algorithm from Medium article. Includes src files and tests layout files
