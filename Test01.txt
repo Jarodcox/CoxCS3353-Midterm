@@ -1,0 +1,2 @@
+txt[] = "abcdefabc";
+pat[] = "abc";

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.cpp
+RabinKarp.h
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.h
+bits/stdc++.h
+-
+
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.h
+iostream
+-
+
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/main.cpp
+RabinKarp.h
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.h
+

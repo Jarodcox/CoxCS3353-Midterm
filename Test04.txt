@@ -1,0 +1,2 @@
+txt[] = computer hot computer cold computer high computer low computers scomputers showcomputer lowcomputer computer
+pat[] = computer

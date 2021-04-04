@@ -1,0 +1,2 @@
+txt[] = AAAABCDCCBABCDAABDCABCD
+pat[] = ABCD
