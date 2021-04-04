@@ -90,13 +90,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.cpp">
+		<Unit filename="/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.cpp">
 			<Option target="CoxCS3353Midterm"/>
 		</Unit>
-		<Unit filename="/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.h">
+		<Unit filename="/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.h">
 			<Option target="CoxCS3353Midterm"/>
 		</Unit>
-		<Unit filename="/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/main.cpp">
+		<Unit filename="/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/main.cpp">
 			<Option target="CoxCS3353Midterm"/>
 		</Unit>
 		<Unit filename="/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/CMakeLists.txt">

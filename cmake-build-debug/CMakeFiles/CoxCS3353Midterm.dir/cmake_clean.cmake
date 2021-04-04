@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o"
-  "CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o"
+  "CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o"
+  "CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o"
   "CoxCS3353Midterm"
   "CoxCS3353Midterm.pdb"
 )

@@ -143,59 +143,59 @@ CoxCS3353Midterm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/build
 .PHONY : CoxCS3353Midterm/fast
 
-RabinKarp.o: RabinKarp.cpp.o
+src/RabinKarp.o: src/RabinKarp.cpp.o
 
-.PHONY : RabinKarp.o
-
-# target to build an object file
-RabinKarp.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o
-.PHONY : RabinKarp.cpp.o
-
-RabinKarp.i: RabinKarp.cpp.i
-
-.PHONY : RabinKarp.i
-
-# target to preprocess a source file
-RabinKarp.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.i
-.PHONY : RabinKarp.cpp.i
-
-RabinKarp.s: RabinKarp.cpp.s
-
-.PHONY : RabinKarp.s
-
-# target to generate assembly for a file
-RabinKarp.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.s
-.PHONY : RabinKarp.cpp.s
-
-main.o: main.cpp.o
-
-.PHONY : main.o
+.PHONY : src/RabinKarp.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o
-.PHONY : main.cpp.o
+src/RabinKarp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o
+.PHONY : src/RabinKarp.cpp.o
 
-main.i: main.cpp.i
+src/RabinKarp.i: src/RabinKarp.cpp.i
 
-.PHONY : main.i
+.PHONY : src/RabinKarp.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/RabinKarp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.i
+.PHONY : src/RabinKarp.cpp.i
 
-main.s: main.cpp.s
+src/RabinKarp.s: src/RabinKarp.cpp.s
 
-.PHONY : main.s
+.PHONY : src/RabinKarp.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/RabinKarp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.s
+.PHONY : src/RabinKarp.cpp.s
+
+src/main.o: src/main.cpp.o
+
+.PHONY : src/main.o
+
+# target to build an object file
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
+
+src/main.i: src/main.cpp.i
+
+.PHONY : src/main.i
+
+# target to preprocess a source file
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
+
+src/main.s: src/main.cpp.s
+
+.PHONY : src/main.s
+
+# target to generate assembly for a file
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CoxCS3353Midterm.dir/build.make CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
 # Help Target
 help:
@@ -206,12 +206,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CoxCS3353Midterm"
-	@echo "... RabinKarp.o"
-	@echo "... RabinKarp.i"
-	@echo "... RabinKarp.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... src/RabinKarp.o"
+	@echo "... src/RabinKarp.i"
+	@echo "... src/RabinKarp.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
 .PHONY : help
 
 

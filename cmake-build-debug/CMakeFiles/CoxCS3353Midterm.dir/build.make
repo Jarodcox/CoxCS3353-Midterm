@@ -77,42 +77,42 @@ include CMakeFiles/CoxCS3353Midterm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CoxCS3353Midterm.dir/flags.make
 
-CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o: CMakeFiles/CoxCS3353Midterm.dir/flags.make
-CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o"
-	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o -c /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/main.cpp
+CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o: CMakeFiles/CoxCS3353Midterm.dir/flags.make
+CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o: ../src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o"
+	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o -c /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/main.cpp
 
-CMakeFiles/CoxCS3353Midterm.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoxCS3353Midterm.dir/main.cpp.i"
-	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/main.cpp > CMakeFiles/CoxCS3353Midterm.dir/main.cpp.i
+CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.i"
+	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/main.cpp > CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.i
 
-CMakeFiles/CoxCS3353Midterm.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoxCS3353Midterm.dir/main.cpp.s"
-	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/main.cpp -o CMakeFiles/CoxCS3353Midterm.dir/main.cpp.s
+CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.s"
+	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/main.cpp -o CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.s
 
-CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o: CMakeFiles/CoxCS3353Midterm.dir/flags.make
-CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o: ../RabinKarp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o"
-	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o -c /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.cpp
+CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o: CMakeFiles/CoxCS3353Midterm.dir/flags.make
+CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o: ../src/RabinKarp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o"
+	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o -c /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.cpp
 
-CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.i"
-	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.cpp > CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.i
+CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.i"
+	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.cpp > CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.i
 
-CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.s"
-	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.cpp -o CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.s
+CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.s"
+	/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.cpp -o CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.s
 
 # Object files for target CoxCS3353Midterm
 CoxCS3353Midterm_OBJECTS = \
-"CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o" \
-"CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o"
+"CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o" \
+"CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o"
 
 # External object files for target CoxCS3353Midterm
 CoxCS3353Midterm_EXTERNAL_OBJECTS =
 
-CoxCS3353Midterm: CMakeFiles/CoxCS3353Midterm.dir/main.cpp.o
-CoxCS3353Midterm: CMakeFiles/CoxCS3353Midterm.dir/RabinKarp.cpp.o
+CoxCS3353Midterm: CMakeFiles/CoxCS3353Midterm.dir/src/main.cpp.o
+CoxCS3353Midterm: CMakeFiles/CoxCS3353Midterm.dir/src/RabinKarp.cpp.o
 CoxCS3353Midterm: CMakeFiles/CoxCS3353Midterm.dir/build.make
 CoxCS3353Midterm: CMakeFiles/CoxCS3353Midterm.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CoxCS3353Midterm"

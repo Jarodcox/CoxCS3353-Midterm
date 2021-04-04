@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.cpp
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.cpp
 RabinKarp.h
-/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.h
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.h
 bits/stdc++.h
 -
 
-/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.h
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.h
 iostream
 -
 
-/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/main.cpp
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/main.cpp
 RabinKarp.h
-/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/RabinKarp.h
+/Users/jarod/Documents/GitHub/CoxCS3353-Midterm/src/RabinKarp.h
 
